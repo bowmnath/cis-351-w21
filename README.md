@@ -11,7 +11,7 @@ and you are responsible for monitoring Piazza to keep up to date with
 announcements
 (Piazza by default will send an email when an announcement is posted).
     * Signup link:
-      [piazza.com/gvsu/winter2021/cis351](piazza.com/gvsu/winter2021/cis351).
+      [http://www.piazza.com/gvsu/winter2021/cis351](http://www.piazza.com/gvsu/winter2021/cis351).
     * You can read the following [Piazza FAQ](misc/piazza-faq.md) if you have
       questions.
 * [Zoom](https://zoom.us) will be the video conferencing service for office
