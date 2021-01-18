@@ -17,9 +17,7 @@ announcements
 * [Zoom](https://zoom.us) will be the video conferencing service for office
   hours and synchronous course meetings.
     * Course meetings and labs:
-      [https://gvsu-edu.zoom.us/j/99095839766?pwd=eHZUbldONGg1UllaSTdqMHZMN3Vxdz09
-](https://gvsu-edu.zoom.us/j/99095839766?pwd=eHZUbldONGg1UllaSTdqMHZMN3Vxdz09
-)
+      [https://gvsu-edu.zoom.us/j/91852767552?pwd=Z0NqMEhzdUxuTkszcTVORmJyTjhlQT09](https://gvsu-edu.zoom.us/j/91852767552?pwd=Z0NqMEhzdUxuTkszcTVORmJyTjhlQT09)
     * Office hours:
       [https://gvsu-edu.zoom.us/j/98637553783?pwd=RzJsazNrcDhFemFRTCtvN2xiblFnUT09](https://gvsu-edu.zoom.us/j/98637553783?pwd=RzJsazNrcDhFemFRTCtvN2xiblFnUT09)
 * [Prairielearn](https://prairielearn.engr.illinois.edu/pl/) is where you will
