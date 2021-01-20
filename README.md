@@ -5,13 +5,13 @@ The slides, schedule, and links to assignments, labs, projects, and videos,
 as well as the official course policies,
 will be posted here.
 The course also uses other websites for specific purposes.
-* [Piazza](http://www.piazza.com) is a question-and-answer forum.
+* [Piazza](http://www.piazza.com/gvsu/winter2021/cis351section2/home) is a question-and-answer forum.
 *All official announcements will be sent through Piazza*,
 and you are responsible for monitoring Piazza to keep up to date with
 announcements
 (Piazza by default will send an email when an announcement is posted).
     * Signup link:
-      [http://www.piazza.com/gvsu/winter2021/cis351](http://www.piazza.com/gvsu/winter2021/cis351).
+      [www.piazza.com/gvsu/winter2021/cis351section2](http://www.piazza.com/gvsu/winter2021/cis351section2).
     * You can read the following [Piazza FAQ](misc/piazza-faq.md) if you have
       questions.
 * [Zoom](https://zoom.us) will be the video conferencing service for office
