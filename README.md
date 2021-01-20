@@ -40,7 +40,7 @@ contact information, and other important info.
 | Week | Topics | Readings | Deliverables |
 | ---- | ------ | -------- | ------------ |
 |  1   | Introduction<br>Binary numbers<br>Combinational circuits<br> | Chapter 1 | **Friday 1/22** [Syllabus quiz](https://prairielearn.engr.illinois.edu/pl/) |
-|  2   | Ripple-carry adder<br>Boolean algebra<br>Multiplexors | | |
+|  2   | Ripple-carry adder<br>Boolean algebra<br>Multiplexors | | **Tuesday 1/26** [DLUnit Lab](https://prairielearn.engr.illinois.edu/pl/) |
 |  3   | Carry-select adder<br>Carry-lookahead adder | | |
 |  4   | Karnaugh Maps<br>Latches | | |
 |  5   | Flip-flops<br>Syncrhonous sequential circuits<br>Pipelining | | |
