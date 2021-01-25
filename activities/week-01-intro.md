@@ -47,6 +47,20 @@ circuit in PLA style.
     (fourth-to-last slide)
     or the relevant part of [the video](https://classtranscribe.illinois.edu/video?id=c9fa198b-c181-461b-9c17-2707d45d068d&begin=797&from=sharedlink).
 
+9(b). Draw the PLA-style circuit for the following truth table instead:
+
+A | B | C | Y |
+--- | --- | --- | --- |
+0 | 0 | 0 | 1 |
+0 | 0 | 1 | 0 |
+0 | 1 | 0 | 0 |
+0 | 1 | 1 | 0 |
+1 | 0 | 0 | 0 |
+1 | 0 | 1 | 0 |
+1 | 1 | 0 | 1 |
+1 | 1 | 1 | 0 |
+
+
 ![combinational circuit 1](images/maybe_combinational_1.jpg)
 
 ![combinational circuit 2](images/maybe_combinational_2.jpg)
