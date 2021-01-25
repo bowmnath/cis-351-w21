@@ -21,35 +21,26 @@ Note: some questions are taken entirely or in part from your textbook.
 
 1. Describe what it means for a circuit to be combinational.
 
-2. For each of the following representations,
-try to come up with an example that does not correspond to a combinational
-circuit.
-If you think it is not possible for a particular representation,
-describe why.
-    * Logic gates
-    * Truth tables
-    * Boolean algebra
-
-3. It is possible for a truth table to have more than one input and/or more than
+2. It is possible for a truth table to have more than one input and/or more than
 one output.
 Does the number of entries in the table grow faster with the number of inputs,
 with the number of outputs, or the same with both?
 
-4. How many rows are there in a truth table with 6 inputs?
+3. How many rows are there in a truth table with 6 inputs?
 
 ![circuit 1](images/simple_circuit_1.jpg)
 
-5. Give one possible Boolean expression for the circuit above.
+4. Give one possible Boolean expression for the circuit above.
 
-6. Write the truth table for the circuit above.
+5. Write the truth table for the circuit above.
 
-7. Write the truth table corresponding to `((A xor B) C)'`.
+6. Write the truth table corresponding to `((A xor B) C)'`.
 
-8. Draw the corresponding circuit in the "natural" way.
+7. Draw the corresponding circuit in the "natural" way.
 
-9. Use your truth table to write the SOP form of the Boolean expression.
+8. Use your truth table to write the SOP form of the Boolean expression.
 
-10. Use either your truth table or the SOP for you just wrote to draw the
+9. Use either your truth table or the SOP for you just wrote to draw the
 circuit in PLA style.
     * If you don't recall what I mean by PLA style,
     you can review the [relevant slides](/slides/boolean-sop.pdf)
@@ -60,10 +51,10 @@ circuit in PLA style.
 
 ![combinational circuit 2](images/maybe_combinational_2.jpg)
 
-11. For the two circuits above,
+10. For the two circuits above,
 determine whether or not each is combinational and explain why or why not.
 
-12. Assume you know that {AND, OR, NOT} is logically complete.
+11. Assume you know that {AND, OR, NOT} is logically complete.
 Show that {AND, NOT} is logically complete.
     * First, recall what you need to do to prove a set is logically complete
     given another set that is logically complete.
