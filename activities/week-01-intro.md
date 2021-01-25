@@ -37,13 +37,13 @@ with the number of outputs, or the same with both?
 
 * How many rows are there in a truth table with 6 inputs?
 
-![circuit 1](images/simple_circuit_1.png)
+![circuit 1](images/simple_circuit_1.jpg)
 
 * Give one possible Boolean expression for the circuit above.
 
 * Write the truth table for the circuit.
 
-![circuit 2](images/simple_circuit_2.png)
+![circuit 2](images/simple_circuit_2.jpg)
 
 * Give a Boolean expression for the circuit above.
 
@@ -62,9 +62,9 @@ circuit in PLA style.
     (fourth-to-last slide)
     or the relevant part of [the video](https://classtranscribe.illinois.edu/video?id=c9fa198b-c181-461b-9c17-2707d45d068d&begin=797&from=sharedlink).
 
-![combinational circuit 1](images/maybe_combinational_1.png)
+![combinational circuit 1](images/maybe_combinational_1.jpg)
 
-![combinational circuit 2](images/maybe_combinational_2.png)
+![combinational circuit 2](images/maybe_combinational_2.jpg)
 
 * For the two circuits above,
 determine whether or not each is combinational and explain why or why not.
