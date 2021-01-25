@@ -20,7 +20,7 @@ announcements
       [https://gvsu-edu.zoom.us/j/91852767552?pwd=Z0NqMEhzdUxuTkszcTVORmJyTjhlQT09](https://gvsu-edu.zoom.us/j/91852767552?pwd=Z0NqMEhzdUxuTkszcTVORmJyTjhlQT09)
     * Office hours:
       [https://gvsu-edu.zoom.us/j/98637553783?pwd=RzJsazNrcDhFemFRTCtvN2xiblFnUT09](https://gvsu-edu.zoom.us/j/98637553783?pwd=RzJsazNrcDhFemFRTCtvN2xiblFnUT09)
-* [Prairielearn](https://prairielearn.engr.illinois.edu/pl/) is where you will
+* [Prairielearn](https://www.prairielearn.org/pl/course_instance/128492) is where you will
 submit all of your assignments, labs, and projects.
 * [ClassTranscribe](https://classtranscribe.illinois.edu/) is where the videos
 will be hosted.
@@ -39,8 +39,8 @@ contact information, and other important info.
 
 | Week | Topics | Readings | Deliverables |
 | ---- | ------ | -------- | ------------ |
-|  1   | Introduction<br>Combinational circuits<br>[videos](https://classtranscribe.illinois.edu/offering/25d3a943-1da6-4e69-b804-6f088a538887#plid=18f7e06a-1a87-430c-ba9e-393c1242f95e)<br>[intro slides](slides/intro.pdf)<br>[circuits slides](slides/boolean-circuits.pdf)<br>[circuit representation slides](slides/boolean-representations.pdf)<br>[conversion slides](slides/boolean-conversions.pdf)<br>[SOP & PLA slides](slides/boolean-sop.pdf)<br>[logical completeness slides](slides/boolean-logical-completeness.pdf) | Chapter 1 | **Friday 1/22** [Syllabus quiz](https://prairielearn.engr.illinois.edu/pl/) |
-|  2   | Binary numbers<br>Ripple-carry adder<br>Boolean algebra<br>Multiplexors<br><br>[Monday activity](activities/week-01-intro.md) | | **Monday 1/25** [Lab partner survey](https://forms.gle/WTAUJEqDJLfBxr6AA)<br>**Tuesday 1/26** [DLUnit Lab](https://prairielearn.engr.illinois.edu/pl/) |
+|  1   | Introduction<br>Combinational circuits<br>[videos](https://classtranscribe.illinois.edu/offering/25d3a943-1da6-4e69-b804-6f088a538887#plid=18f7e06a-1a87-430c-ba9e-393c1242f95e)<br>[intro slides](slides/intro.pdf)<br>[circuits slides](slides/boolean-circuits.pdf)<br>[circuit representation slides](slides/boolean-representations.pdf)<br>[conversion slides](slides/boolean-conversions.pdf)<br>[SOP & PLA slides](slides/boolean-sop.pdf)<br>[logical completeness slides](slides/boolean-logical-completeness.pdf) | Chapter 1 | **Friday 1/22** [Syllabus quiz](https://www.prairielearn.org/pl/course_instance/128492/assessment/2309007) |
+|  2   | Binary numbers<br>Ripple-carry adder<br>Boolean algebra<br>Multiplexors<br><br>[Monday activity](activities/week-01-intro.md) | | **Monday 1/25** [Lab partner survey](https://forms.gle/WTAUJEqDJLfBxr6AA)<br>**Tuesday 1/26** [DLUnit Lab](https://www.prairielearn.org/pl/course_instance/128492/assessment/2309105) |
 |  3   | Carry-select adder<br>Carry-lookahead adder | | |
 |  4   | Karnaugh Maps<br>Latches | | |
 |  5   | Flip-flops<br>Syncrhonous sequential circuits<br>Pipelining | | |
