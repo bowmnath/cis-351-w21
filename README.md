@@ -43,7 +43,7 @@ contact information, and other important info.
 |  2   | Binary numbers<br>[videos](https://classtranscribe.illinois.edu/offering/25d3a943-1da6-4e69-b804-6f088a538887#plid=a4e3f4e5-9f2d-4686-b3b1-4b5e23550955)<br>[intro slides](slides/binary-intro.pdf)<br>[usage slides](slides/binary-use.pdf)<br>[tricks/tips slides](slides/binary-hex.pdf)<br>Ripple-carry adder<br>Boolean algebra<br>Multiplexors<br><br>[Monday activity](activities/week-01-intro.md) | | **Monday 1/25** [Lab partner survey](https://forms.gle/WTAUJEqDJLfBxr6AA)<br>**Tuesday 1/26** [DLUnit Lab](https://www.prairielearn.org/pl/course_instance/128492/assessment/2309105) |
 |  3   | Carry-select adder<br>Carry-lookahead adder | | **Tuesday 2/2** [Homework 1](https://www.prairielearn.org/pl/course_instance/128492/assessment/2309285)<br>**Tuesday 2/2** [Breadboard Lab 1](https://www.prairielearn.org/pl/course_instance/128492/assessment/2309376) |
 |  4   | Karnaugh Maps<br>Latches | | |
-|  5   | Flip-flops<br>Syncrhonous sequential circuits<br>Pipelining | | |
+|  5   | Flip-flops<br>Synchronous sequential circuits<br>Pipelining | | |
 |  6   | Turning circuits into computers | | |
 |  7   | I-type instructions<br>Branches | | |
 |  8   | Control logic<br>Memory load/store<br>Assembly programming constructs | | |
