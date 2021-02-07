@@ -44,7 +44,7 @@ contact information, and other important info.
 |  3   | Ripple-Carry Timing<br>[ripple-carry timing slides](slides/ripple-carry-timing.pdf)<br>Multiplexors<br>[multiplexor slides](slides/muxes.pdf)<br>Carry-select adder<br>[carry-select slides part 1](slides/carry-select-part1.pdf)<br>[carry-select slides part 2](slides/carry-select-part2.pdf)<br>Carry-lookahead adder<br>[carry-lookahead slides part 1](slides/carry-lookahead-part1.pdf)<br>[carry-lookahead slides part 2](slides/carry-lookahead-part2.pdf)<br><br>[videos](https://classtranscribe.illinois.edu/offering/25d3a943-1da6-4e69-b804-6f088a538887#plid=4faf36cd-3b69-4534-9e4a-3dc5fc070e18)<br>[Monday activity](activities/week-02-binary-adder.md) | | **Tuesday 2/2** [Homework 1](https://www.prairielearn.org/pl/course_instance/128492/assessment/2309285)<br>**Tuesday 2/2** [Breadboard Lab 1](https://www.prairielearn.org/pl/course_instance/128492/assessment/2309376) |
 |  4   | Karnaugh Maps<br>Latches | | |
 |  5   | Flip-flops<br>Synchronous sequential circuits<br>Pipelining | | |
-|  6   | Turning circuits into computers | | |
+|  6   | Turning circuits into computers | | **Monday 2/22** [Project 1 (standard credit)](https://www.prairielearn.org/pl/course_instance/128492/assessment/2309626) |
 |  7   | I-type instructions<br>Branches | | |
 |  8   | Control logic<br>Memory load/store<br>Assembly programming constructs | | |
 |  9   | Arrays<br>Stack | | |
