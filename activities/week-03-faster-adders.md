@@ -75,7 +75,7 @@ using only a multiplexor.
 
 8. Consider representing the Boolean expression
 `(A + B)*(C + ~A) + D + (E*F) + (F xor G)`
-using a muliplexor.
+using a multiplexor.
     * how many selector inputs would be required?
     * how many data inputs?
 
