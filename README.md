@@ -45,7 +45,7 @@ contact information, and other important info.
 |  4   | Karnaugh Maps<br>Latches | | |
 |  5   | Flip-flops<br>Synchronous sequential circuits<br>Pipelining | | |
 |  6   | Turning circuits into computers | | **Monday 2/22** [Project 1 (standard credit)](https://www.prairielearn.org/pl/course_instance/128492/assessment/2309626) |
-|  7   | I-type instructions<br>Branches | | |
+|  7   | I-type instructions<br>Branches | | **Monday 3/1** [Project 2 (standard credit)](https://www.prairielearn.org/pl/course_instance/128492/assessment/2309627)|
 |  8   | Control logic<br>Memory load/store<br>Assembly programming constructs | | |
 |  9   | Arrays<br>Stack | | |
 |  10  | Memory | | |
