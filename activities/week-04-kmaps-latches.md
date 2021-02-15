@@ -55,7 +55,7 @@ first diagram?
 8. Consider the diagram below.
 Is the circuit in this diagram an SR latch?
 That is, if we treated it as a black box and considered only its inputs and
-outpus,
+outputs,
 would it behave the same way as the circuit we have been studying?
 (Hint: how can we characterize the behavior of a sequential circuit?)
 
