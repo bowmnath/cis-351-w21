@@ -47,7 +47,7 @@ contact information, and other important info.
 |  6   | Turning circuits into computers<br>[building computer handout](misc/architecture-intro-handout.pdf)<br><br>[videos](https://classtranscribe.illinois.edu/offering/25d3a943-1da6-4e69-b804-6f088a538887#plid=10533129-10c0-4e3d-86d9-4c137f58be86) | | **Monday 2/22** [Project 1 (standard credit)](https://www.prairielearn.org/pl/course_instance/128492/assessment/2309626)<br>**Tuesday 2/23** [Sequential Circuits Lab](https://www.prairielearn.org/pl/course_instance/128492/assessment/2309769)<br>**Wednesday, February 24** Midterm Exam 1 (during lab) |
 |  7   | I-type instructions<br>Branches | | **Monday 3/1** [Project 2 (standard credit)](https://www.prairielearn.org/pl/course_instance/128492/assessment/2309627)|
 |  8   | Control logic<br>Memory load/store<br>Assembly programming constructs | | |
-|  9   | Arrays<br>Stack | | |
+|  9   | Arrays<br>Stack | | **Monday 3/15** [Project 3 (standard credit)](https://www.prairielearn.org/pl/course_instance/128492/assessment/2309971) |
 |  10  | Memory | | |
 |  11  | Cache motivation<br>Direct-mapped cache | | |
 |  12  | Associative cache<br>Varying block size in cache | | |
