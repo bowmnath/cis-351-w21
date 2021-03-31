@@ -79,7 +79,7 @@ fun_done:
 
 arr_stack_fun:
 	addi $sp, $sp, -20
-	addi $t0, $sp, 0	# $t0 holds base address of 10-element array
+	addi $t0, $sp, 0	# $t0 holds base address of 5-element array
 	
 	addi $t1, $0, 5		# t1: constant 5
 	addi $t2, $0, 0		# t2: loop index (i)
