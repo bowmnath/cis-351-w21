@@ -75,4 +75,4 @@ Note: some questions are taken entirely or in part from your textbook.
 -->
 
 8. Start working on the
-   [direct-mapped cache handout](misc/direct-cache-handout.pdf).
+   [direct-mapped cache handout](/misc/direct-cache-handout.pdf).
