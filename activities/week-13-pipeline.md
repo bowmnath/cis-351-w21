@@ -28,7 +28,7 @@ Note: some questions are taken entirely or in part from your textbook.
 
    ```python
    total = 0
-   for i in range(100):
+   for i in range(100):  # for (int i = 0; i < 100; i++)
        total += 5
    ```
 
