@@ -109,7 +109,7 @@ Midterm Exam 1: Wednesday, February 24
 
 Midterm Exam 2: Wednesday, March 24
 
-Final Exam: TBD
+Final Exam: Wednesday, April 28, 4 PM - 5:50 PM
 
 ## Course Policies
 
